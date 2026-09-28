@@ -5,7 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        // Create videos
+        // Create  videos
         Video video1 = new Video(
             "Introduction to C#",
             "Programming Academy",
